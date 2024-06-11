@@ -25,6 +25,6 @@ The International Space Station (ISS) makes its rounds around the world 24/7. An
 
 ## :bowtie: Reflections
 
+None.
 
-
-Difficulty Level: :six:
+Difficulty Level: 3️⃣
