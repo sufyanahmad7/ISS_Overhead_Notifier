@@ -27,4 +27,4 @@ The International Space Station (ISS) makes its rounds around the world 24/7. An
 
 None.
 
-## 💪 Difficulty Level: 3️⃣
+Difficulty Level: 3️⃣
