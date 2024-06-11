@@ -1,4 +1,4 @@
-<img width="335" alt="image" src="https://github.com/sufyanahmad7/ISS_Overhead_Notifier/assets/44853317/1dc9aa00-8497-4ebf-acd5-a82400b2ce80"># ISS_Overhead_Notifier
+# ISS_Overhead_Notifier
 
 ## :book: Introduction
 The International Space Station (ISS) makes its rounds around the world 24/7. And there is a good chance it may be above us. Hence, I have created a script that alerts me when it is above Singapore. All in the name of fun!
