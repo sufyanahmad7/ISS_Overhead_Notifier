@@ -16,7 +16,7 @@ The International Space Station (ISS) makes its rounds around the world 24/7. An
   
 ## :x: Limitations
 
-1. Limited to emails only.
+1. Limited to email alerts only.
 
 ## :runner: Future improvements
 
